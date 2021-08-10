@@ -30,7 +30,7 @@ Python Dependencies
 Install from Github
 
 ```shell
-git clone https://github.com/ChenDdon/btcode.git
+# download entire folder, which named BTcode
 cd BTcode/bt_pro
 python setup.py build_ext --inplace
 mv ./bt_pro/fairseq/data/* ./fairseq/data/
