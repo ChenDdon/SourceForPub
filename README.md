@@ -2,7 +2,7 @@
 
 ---
 
-1. **Chen, Dong**, Jiaxin Zheng, Guowei Wei, and Feng Pan. "Extracting Predictive Representations from Hundreds of Millions of Molecules." The journal of physical chemistry letters (2021). The source code is publicly avaliable at https://github.com/WeilabMSU/PretrainModels
+1. **Chen, Dong**, Jiaxin Zheng, Guowei Wei, and Feng Pan. "Extracting Predictive Representations from Hundreds of Millions of Molecules." The journal of physical chemistry letters, 0, 12 (2021). The source code is publicly avaliable at https://github.com/WeilabMSU/PretrainModels
 
 1. **Chen, Dong**, Kaifu Gao, Duc Duy Nguyen, Xin Chen, Yi Jiang, Guo-Wei Wei, and Feng Pan. "Algebraic graph-assisted bidirectional transformers for molecular property prediction." Nature Communications 12, no. 1 (2021): 1-9. The source code is publicly avaliable at https://github.com/ChenDdon/AGBTcode
 
